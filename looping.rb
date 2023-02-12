@@ -40,4 +40,4 @@ def reverse_string(str)
 end
 return reverse
 end
-
+reverse_string("Evalyne")
